@@ -1,0 +1,23 @@
+.hi {
+    overflow: hidden;
+    background-color: rgb(72, 88, 177);
+    height: 40px;
+    width:full;
+    border-radius:10px;
+  
+  }
+  .hi a.active {
+    background-color: #04aa6d;
+    color: white;
+  }
+  .hi a {
+    float: left;
+    color: #d2dac1;
+    margin-left:8px;
+    text-align: center;
+    padding: 4px 5px;
+    text-decoration: none;
+    font-size: 15px;
+    
+    font-weight: bold;
+  }
